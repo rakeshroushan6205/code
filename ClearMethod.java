@@ -11,7 +11,7 @@ public class ClearMethod {
         a1.add(20); // Add 20 to the list
         a1.add(30); // Add 30 to the list
         a1.add(40); // Add 40 to the list
-
+        a1.add(50);
         // Print the contents of the ArrayList before clearing
         System.out.println(a1); // Output: [10, 20, 30, 40]
 
@@ -21,4 +21,5 @@ public class ClearMethod {
         // Print the contents of the ArrayList after clearing
         System.out.println(a1); // Output: []
     }
+
 }
